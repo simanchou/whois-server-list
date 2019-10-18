@@ -6910,7 +6910,7 @@
       "WhoisServer": "whois.nic.site",
       "ExpiryDateKeyword": "Registry Expiry Date:",
       "ExpiryDateFormat": "2006-01-02T15:04:05Z07:00",
-      "LineSeparator": "\n"
+      "LineSeparator": "\r\n"
     },
     "sj": {
       "WhoisServer": "-",
