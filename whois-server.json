@@ -862,7 +862,7 @@
       "WhoisServer": "whois.nic.biz",
       "ExpiryDateKeyword": "Registry Expiry Date:",
       "ExpiryDateFormat": "2006-01-02T15:04:05Z07:00",
-      "LineSeparator": "\n"
+      "LineSeparator": "\r\n"
     },
     "bj": {
       "WhoisServer": "whois.nic.bj",
@@ -4522,7 +4522,7 @@
       "WhoisServer": "whois.nic.live",
       "ExpiryDateKeyword": "Registry Expiry Date:",
       "ExpiryDateFormat": "2006-01-02T15:04:05Z07:00",
-      "LineSeparator": "\n"
+      "LineSeparator": "\r\n"
     },
     "living": {
       "WhoisServer": "-",
